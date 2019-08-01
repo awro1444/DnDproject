@@ -1,0 +1,7 @@
+https://www.w3schools.com/sql/
+https://www.javadoc.io/doc/com.google.code.gson/gson/2.8.5
+https://www.w3schools.in/json/json-java/
+https://www.a2hosting.com/kb/developer-corner/mysql/connect-to-mysql-using-php
+https://www.php.net/manual/en/reserved.variables.post.php
+https://www.coderblog.de/sending-data-from-java-to-php-via-a-post-request/
+https://stackoverflow.com
